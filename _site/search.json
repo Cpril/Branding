@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Brand Identity",
+    "section": "",
+    "text": "Identity\n(image placeholder)\n\n\nLogo\n(image placeholder)\n(image placeholder)\n\n\nIcons\n(image placeholder)\n(image placeholder)\n\n\nColor Scheme\n(image placeholder)\n(image placeholder)\n\n\nText Style\n\n\n\n\n\n\n\n\n\n\n\nElement\nFont\nFont‑Size\nColour\nWeight\nNotes\n\n\n\n\nTitle\nTimes New Roman\n–\n#333333\nBold\nMust stay on a single line\n\n\nHeading (h1)\nConsolas\n2rem\n#222222\nBold\nMust stay on a single line\n\n\nSubheading (h2)\nConsolas\n1.5rem\n#444444\nNot Bold\n-\n\n\nSubheading (h3)\nConsolas\n1.25rem\n#666666\nNot Bold\n-\n\n\nParagraph\nConsolas\n1rem\n#333333\nNot Bold\nColor and weight can vary\n\n\nLinks\nConsolas\nsame as surrounding\n#0066cc\nvary\nUnderline when hover\n\n\n\n\n\nVocabulary\n\nWe say:\nWe don’t say:"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]

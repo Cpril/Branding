@@ -1,0 +1,76 @@
+/* css styles */
+/* --------------------------------------------------
+   Quarto Website – Custom Global Styles
+   -------------------------------------------------- */
+
+/* 1. CSS Custom Properties (theme colours / fonts) */
+:root {
+  /* Fonts */
+  --font-sans:   "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-serif:  "Georgia", serif;
+
+  /* Colours */
+  --color-bg:          #fffff3;     /* Page background */
+  --color-text:        #333333;     /* Default body text */
+  --color-heading:     #222222;     /* h1 */
+  --color-subheading:  #444444;     /* h2 */
+  --color-subsubheading:#666666;    /* h3 */
+  --color-primary:     #0066cc;     /* Links, accents */
+
+  /* Spacing & Layout */
+  --line-height:      1.6;
+  --content-max-width: 800px;
+}
+
+/* 2. Body (background + base text) */
+body {
+  background-color: var(--color-bg);
+  color:            var(--color-text);
+  font-family:      var(--font-sans);
+  line-height:      var(--line-height);
+  margin:           0;
+  padding:          2rem;  /* Add breathing room around the page */
+}
+
+/* 3. Headings ------------------------------------------------- */
+h1, h2, h3 {
+  font-family:  Consolas, monospace;
+  margin-top:   1.5rem;
+  margin-bottom:0.5rem;
+  line-height:  1.25;
+  color:        var(--color-heading);   /* Default – overridden below */
+}
+
+.title {                     /* .title is the class Quarto uses for the page title */
+  font-family: "Times New Roman", Times, serif;
+}
+
+h1 { font-size: 2rem; }   /* Main heading */
+h2 { font-size: 1.5rem; }   /* Sub‑heading */
+h3 { font-size: 1.25rem; } /* Sub‑sub‑heading */
+
+
+
+/* 4. Body text (paragraphs) */
+p {
+  margin-top:    0;
+  margin-bottom: 1rem;
+  max-width:     var(--content-max-width);
+  font-family:  Consolas, monospace;
+}
+
+/* 5. Links & anchors */
+a {
+  color:        var(--color-primary);
+  text-decoration: none;
+}
+a:hover, a:focus {
+  text-decoration: underline;
+}
+
+/* Optional – style code blocks & tables if you want a consistent look */
+pre, code { font-family: "Fira Code", monospace; }
+table { width: 100%; border-collapse: collapse; }
+th, td { padding: 0.25rem; border: 1.5px solid #e0e0e0; }
+
+/* End of file ------------------------------------------------- */

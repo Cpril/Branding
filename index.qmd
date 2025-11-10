@@ -26,23 +26,17 @@ title: "Brand Identity"
 
 # Text Style
 
-
-| Element           | Font             | Font‑Size | Colour     | Weight | Notes                                 |
-|-------------------|------------------|-----------|------------|--------|----------------------------------------|
-| **Title**         | Times New Roman  | –         | #333333    | Bold   | Must stay on a single line             |
-| **Heading (h1)**  | Consolas         | 2rem      | #222222    | Bold   | Must stay on a single line             |
-| **Subheading (h2)** | Consolas   | 1.5rem | #444444   | Not Bold   | -   |
-| **Subheading (h3)** | Consolas   | 1.25rem | #666666   | Not Bold   | -   |
-| **Paragraph** | Consolas   | 1rem | #333333   | Not Bold   | Color and weight can vary |
-| **Links** | Consolas   | same as surrounding | #0066cc   | vary   | Underline when hover  |
-
+| Element | Font | Font‑Size | Colour | Weight | Notes |
+|-----------|-----------|-----------|-----------|-----------|-------------------|
+| **Title** | Times New Roman | – | #333333 | Bold | Must stay on a single line |
+| **Heading (h1)** | Consolas | 2rem | #222222 | Bold | Must stay on a single line |
+| **Subheading (h2)** | Consolas | 1.5rem | #444444 | Not Bold | \- |
+| **Subheading (h3)** | Consolas | 1.25rem | #666666 | Not Bold | \- |
+| **Paragraph** | Consolas | 1rem | #333333 | Not Bold | Color and weight can vary |
+| **Links** | Consolas | same as surrounding | #0066cc | vary | Underline when hover |
 
 # Vocabulary
 
-- We say: 
+-   We say:
 
-- We don't say:
-
-
-
-
+-   We don't say:
