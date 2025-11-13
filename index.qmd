@@ -4,30 +4,28 @@ title: "Brand Identity"
 
 # Identity
 
-(image placeholder)
+Text
 
 # Logo
 
-(image placeholder)
-
-(image placeholder)
+```{r, echo=FALSE}
+#| layout-ncol: 2
+#| out.width: "80%"   # increase to make images bigger within each column
+knitr::include_graphics(c("image/logo_colors.png", "image/logo_landscape.png"))
+```
 
 # Icons
 
-(image placeholder)
-
-(image placeholder)
+![](image/icon1_screenshot.png){width="3in"}
 
 # Color Scheme
 
-(image placeholder)
-
-(image placeholder)
+![](image/support_colors.png){width="5in"}
 
 # Text Style
 
 | Element | Font | Font‑Size | Colour | Weight | Notes |
-|-----------|-----------|-----------|-----------|-----------|-------------------|
+|------------|------------|------------|------------|------------|------------|
 | **Title** | Times New Roman | – | #333333 | Bold | Must stay on a single line |
 | **Heading (h1)** | Consolas | 2rem | #222222 | Bold | Must stay on a single line |
 | **Subheading (h2)** | Consolas | 1.5rem | #444444 | Not Bold | \- |
