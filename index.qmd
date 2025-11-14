@@ -59,4 +59,4 @@ We don't say:
 
 I'm thinking social media / blogs. not sure what that look like yet.
 
-![](image/filtergif.gif)
+![](image/filtergif.gif){width="4.44in"}
