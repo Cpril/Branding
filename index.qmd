@@ -4,11 +4,9 @@ title: "Brand Identity"
 
 ### Identity
 
-This educational website centers on making programming and technology approachable, engaging, transparent,and human-centered. 
+This educational website centers on making programming and technology approachable, engaging, transparent,and human-centered.
 
 It emphasize that programming is not just for experts but a creative tool anyone can explore and enjoy. It also shapes the future of communication, learning, and everyday life.
-
-
 
 ### Logo
 
@@ -41,22 +39,24 @@ knitr::include_graphics(c("image/logo_colors.png", "image/logo_landscape.png"))
 
 We speak with:
 
-- Clearity
+-   Clearity
 
-- Creativity
+-   Creativity
 
-- Playfulness
+-   Playfulness
 
-- Confidence
+-   Confidence
 
-- Humility
+-   Humility
 
 We don't say:
 
-- Jargon
+-   Jargon
 
-- Buzzword
+-   Buzzword
 
 ### Mock up
 
-I'm thinking social media / blogs. not sure what that look like yet. 
+I'm thinking social media / blogs. not sure what that look like yet.
+
+![](image/filtergif.gif)
