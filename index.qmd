@@ -2,7 +2,7 @@
 title: "Brand Identity"
 ---
 
-# Identity
+### Identity
 
 This educational website centers on making programming and technology approachable, engaging, transparent,and human-centered. 
 
@@ -10,7 +10,7 @@ It emphasize that programming is not just for experts but a creative tool anyone
 
 
 
-# Logo
+### Logo
 
 ```{r, echo=FALSE}
 #| layout-ncol: 2
@@ -18,15 +18,15 @@ It emphasize that programming is not just for experts but a creative tool anyone
 knitr::include_graphics(c("image/logo_colors.png", "image/logo_landscape.png"))
 ```
 
-# Icons
+### Icons
 
 ![](image/icon1_screenshot.png){width="3in"}
 
-# Color Scheme
+### Color Scheme
 
 ![](image/support_colors.png){width="5in"}
 
-# Text Style
+### Text Style
 
 | Element | Font | Font‑Size | Colour | Weight | Notes |
 |------------|------------|------------|------------|------------|------------|
@@ -37,7 +37,7 @@ knitr::include_graphics(c("image/logo_colors.png", "image/logo_landscape.png"))
 | **Paragraph** | Consolas | 1rem | #333333 | Not Bold | Color and weight can vary |
 | **Links** | Consolas | same as surrounding | #0066cc | vary | Underline when hover |
 
-# Vocabulary
+### Vocabulary
 
 We speak with:
 
@@ -57,6 +57,6 @@ We don't say:
 
 - Buzzword
 
-# Mock up
+### Mock up
 
 I'm thinking social media / blogs. not sure what that look like yet. 
