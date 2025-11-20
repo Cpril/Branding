@@ -12,5 +12,159 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#understanding-modern-web-development",
+    "href": "index.html#understanding-modern-web-development",
+    "title": "",
+    "section": "Understanding Modern Web Development",
+    "text": "Understanding Modern Web Development\n\nPublished on Nov 15, 2025\n\n\nDive into the latest trends and technologies shaping the web development landscape. Learn about new frameworks, best practices, and tools that are revolutionizing how we build for the web."
+  },
+  {
+    "objectID": "index.html#the-future-of-data-science",
+    "href": "index.html#the-future-of-data-science",
+    "title": "",
+    "section": "The Future of Data Science",
+    "text": "The Future of Data Science\n\nPublished on Nov 12, 2025 • 7 min read\n\n\nExplore emerging trends in data science and machine learning. From AI advancements to practical applications, discover what’s next in the world of data-driven decision making."
+  },
+  {
+    "objectID": "branding.html#logo-variations",
+    "href": "branding.html#logo-variations",
+    "title": "",
+    "section": "Logo Variations",
+    "text": "Logo Variations\n\n\n\n\n\n\nPrimary Logo\n\nUse this as the main logo for most applications.\n\n\nMinimum size: 100px width\n\n\n\n\n\n\n\n\nSecondary Logo\n\nAlternative version for specific contexts.\n\n\nMinimum size: 100px width\n\n\n\n\n\n\n\n\nIcon Version\n\nSimplified icon for small applications.\n\n\nMinimum size: 48px width"
+  },
+  {
+    "objectID": "branding.html#color-palette",
+    "href": "branding.html#color-palette",
+    "title": "",
+    "section": "Color Palette",
+    "text": "Color Palette"
+  },
+  {
+    "objectID": "branding.html#primary-colors",
+    "href": "branding.html#primary-colors",
+    "title": "",
+    "section": "Primary Colors",
+    "text": "Primary Colors\n\nOur primary color palette consists of deep ocean blue and warm gold. These colors represent trust, professionalism, and creativity.\n\n\n\n\n\nOcean Blue: #13252b\nWarm Gold: #f4d03f"
+  },
+  {
+    "objectID": "branding.html#secondary-colors",
+    "href": "branding.html#secondary-colors",
+    "title": "",
+    "section": "Secondary Colors",
+    "text": "Secondary Colors\n\nSecondary colors provide flexibility and variety while maintaining brand consistency across different applications.\n\n\n\n\n\nBright Blue: #3498db\nOrange: #f39c12"
+  },
+  {
+    "objectID": "branding.html#typography",
+    "href": "branding.html#typography",
+    "title": "",
+    "section": "Typography",
+    "text": "Typography\n\n\n\n\nElement\nFont\nFont‑Size\nColour\nStyle\n\n\n\n\nTitle\nConsolas\n1.8rem\n#2c3e50\nBold\n\n\nHeading (h1)\nConsolas\n1.5rem\n#222222\nBold\n\n\nSubheading (h2)\nConsolas\n1.2rem\n#444444\nBold\n\n\nSubheading (h3)\nConsolas\n1rem\n#666666\nBold\n\n\nParagraph\nConsolas\n0.85rem\n#34495e\nVary\n\n\ncaption\nConsolas\n0.6rem\n#34495e\nItalics\n\n\nLinks\nConsolas\n-\n#3498db when hover\nvary"
+  },
+  {
+    "objectID": "branding.html#heading-level-2---for-sections",
+    "href": "branding.html#heading-level-2---for-sections",
+    "title": "",
+    "section": "Heading Level 2 - For Sections",
+    "text": "Heading Level 2 - For Sections\n\nUse Heading 2 for major subsections within your content. This creates a clear visual hierarchy that helps readers navigate through the material.\n\n\nHeading Level 3 - For Subsections\n\nHeading 3 is perfect for breaking down complex topics into manageable pieces. It maintains the hierarchy while providing clear organization.\n\n\nThis is caption text - use it for image captions, footnotes, or supplementary information that supports the main content."
+  },
+  {
+    "objectID": "branding.html#brand-applications",
+    "href": "branding.html#brand-applications",
+    "title": "",
+    "section": "Brand Applications",
+    "text": "Brand Applications\n\n\n\nWe speak with:\n\n\nClearity\nCreativity\nPlayfulness\nConfidence\nHumility\n\n\n\n\n\n\n\n\n\nWe speak with:\n\n\nClearity\nCreativity\nPlayfulness\nConfidence\nHumility\n\n\n\n\n\n\n\n\n\nplaceholder\n\n(Placeholder)\n\n\nPlaceholder"
+  },
+  {
+    "objectID": "branding.html#marketing-advertising",
+    "href": "branding.html#marketing-advertising",
+    "title": "",
+    "section": "Marketing & Advertising",
+    "text": "Marketing & Advertising\n\nOur brand identity extends across all marketing materials, from digital campaigns to print advertisements. Maintain consistency in color usage, typography, and logo placement to ensure brand recognition.\n\n\nUpdated: November 2025"
+  },
+  {
+    "objectID": "branding.html#product-packaging",
+    "href": "branding.html#product-packaging",
+    "title": "",
+    "section": "Product Packaging",
+    "text": "Product Packaging\n\nProduct packaging should reflect our brand values of quality and innovation. Use the primary color palette and ensure the logo is prominently displayed while maintaining a clean, modern aesthetic.\n\n\nMinimum clearance: 10mm on all sides"
+  },
+  {
+    "objectID": "branding.html#website-apps",
+    "href": "branding.html#website-apps",
+    "title": "",
+    "section": "Website & Apps",
+    "text": "Website & Apps\n\nDigital platforms offer unique opportunities for brand expression. Incorporate interactive elements while staying true to our core visual identity. Ensure responsive designs work across all device sizes.\n\n\nMobile-first approach recommended"
+  },
+  {
+    "objectID": "branding.html#the-design-process",
+    "href": "branding.html#the-design-process",
+    "title": "",
+    "section": "The Design Process",
+    "text": "The Design Process\n\n\nUnderstand the Brand\n\nPlaceholder text\n\n\n\nDefine User Needs\n\nPlaceholder text\n\n\n\nBuild and Prototype\n\nPlaceholder text"
+  },
+  {
+    "objectID": "branding.html#brand-statement",
+    "href": "branding.html#brand-statement",
+    "title": "",
+    "section": "Brand Statement",
+    "text": "Brand Statement\n\nARS aims to make data science and technologies approachable, engaging, transparent, and human-centered. By sharing content from technical programming to storytelling with data, we want to engage with audiance from various stage of the journey, showcase the power of data, and discuss the ethics of harvesting this power.\nWe emphasize that data science is not just for experts but a creative tool anyone can explore and enjoy. It also shapes the future of communication, learning, and everyday life."
+  },
+  {
+    "objectID": "branding.html#rules",
+    "href": "branding.html#rules",
+    "title": "",
+    "section": "Rules",
+    "text": "Rules\n\n\n\n\n\n\n\n\n\n\n\nElement\nFont\nFont‑Size\nColour\nWeight \n\n\n\n\nTitle\nConsolas\n–\n#333333\nBold\n\n\nHeading (h1)\nConsolas\n2rem\n#222222\nBold\n\n\nSubheading (h2)\nConsolas\n1.5rem\n#444444\nNot Bold\n\n\nSubheading (h3)\nConsolas\n1.2rem\n#666666\nNot Bold\n\n\nParagraph\nConsolas\n1rem\n#34495e\nNot Bold\n\n\nLinks\nConsolas\nsame as surrounding\n#3498db when hover\nvary"
+  },
+  {
+    "objectID": "branding.html#typography-1",
+    "href": "branding.html#typography-1",
+    "title": "",
+    "section": "Typography",
+    "text": "Typography"
+  },
+  {
+    "objectID": "branding.html#varing-degrees-of-heirarchy-provides-flexibility-of-implementation-h2",
+    "href": "branding.html#varing-degrees-of-heirarchy-provides-flexibility-of-implementation-h2",
+    "title": "",
+    "section": "varing degrees of heirarchy provides flexibility of implementation (h2)",
+    "text": "varing degrees of heirarchy provides flexibility of implementation (h2)\n\nUse of Consolas creates a playful attitude and reference the programming aspect of the brand (h3)\n\nSecondary colors provide flexibility and variety while maintaining brand consistency across different applications.\n\n\n\n\n\nBright Blue: #3498db\nOrange: #f39c12"
+  },
+  {
+    "objectID": "branding.html#section-heading-h2",
+    "href": "branding.html#section-heading-h2",
+    "title": "",
+    "section": "Section Heading (h2)",
+    "text": "Section Heading (h2)\n\nSubsubction Heading (h3)\n\nThis is what body text looks like. Our primary typeface is Consolas, a monospaced font that provides a technical, modern feel while maintaining excellent readability across all devices and screen sizes.\n\n\nThis is caption text - use it for image captions, footnotes, or supplementary information that supports the main content."
+  },
+  {
+    "objectID": "branding.html#digital",
+    "href": "branding.html#digital",
+    "title": "",
+    "section": "Digital",
+    "text": "Digital\n\nWe are fully digital"
+  },
+  {
+    "objectID": "branding.html#we-speak-with",
+    "href": "branding.html#we-speak-with",
+    "title": "",
+    "section": "We speak with:",
+    "text": "We speak with:\n\n\nClearity\nCreativity\nPlayfulness\nConfidence\nHumility"
+  },
+  {
+    "objectID": "branding.html#placeholder",
+    "href": "branding.html#placeholder",
+    "title": "",
+    "section": "placeholder",
+    "text": "placeholder\n\n(Placeholder)\n\n\nPlaceholder"
+  },
+  {
+    "objectID": "branding.html#we-speak-with-1",
+    "href": "branding.html#we-speak-with-1",
+    "title": "",
+    "section": "We speak with:",
+    "text": "We speak with:\n\n\nClearity\nCreativity\nPlayfulness\nConfidence\nHumility"
   }
 ]
