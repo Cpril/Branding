@@ -12,17 +12,17 @@ body {
 
 /* Background color for homepage */
 body.homepage {
-    background-color: #fef9e7;
+    background-color: #f2f2f2;
 }
 
 /* Background color for branding page */
 body.branding-page {
-    background-color: white;
+    background-color: #f2f2f2;
 }
 
 /* Default background for pages without specific class */
 body {
-    background-color: #fef9e7;
+    background-color: #f2f2f2;
 }
 
 /* Hide Quarto navbar except search */
@@ -373,7 +373,7 @@ body {
 .image-block {
     width: 100%;
     height: 300px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 0%,0);
     display: flex;
     align-items: center;
     justify-content: center;

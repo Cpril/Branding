@@ -102,14 +102,14 @@
     "href": "branding.html#the-design-process",
     "title": "",
     "section": "The Design Process",
-    "text": "The Design Process\n\n\nUnderstand the Brand\n\nPlaceholder text\n\n\n\nDefine User Needs\n\nPlaceholder text\n\n\n\nBuild and Prototype\n\nPlaceholder text"
+    "text": "The Design Process\n\n\nUnderstand the Brand\n\nArs aim to make data science and technologies approachable, engaging, transparent, and human-centered through informational blogs and fun projects.\nWe want to convey both the professionalism that is associated with technology and data, as well as the creative and fun aspect of them.\nAdditionally, We value clarity and simplicity in our content, as well as the passion and excitement associate with hands-on learning.\n\n\n\nDefine User Needs\n\nArs would attract users who are interested in learning more about in data science and looking for creative ideas to test the water in data science or flush up their resume.\nUser would like to see an organized blogs web interface, along with an “about” and “subscribe” session which help the user learn more about us and keep updated.\n\n\n\nBuild and Prototype\n\nI created a main page with an organized blogs section on the right. Blogs are seperated according to featured blog and past blogs. A search button on the top right (TODO: FIX the location) enable search across all blogs and contents. I also built a left sidebar with links to “about” and “subscribe”, as well as other social media outlets, allows quick access.\nFor color schemes, I used cold neutral colors such as black and grays to convey the professionalism, clarity and simplicity. Then, I added bright green and pink to convey the passion, excitement, creativity, and fun.\nFor texts, I used different styles and sizes of Consolas, as it is a monospaced text face that’s commonly used in programming and its round edges conveys a sense of playfulness."
   },
   {
     "objectID": "branding.html#brand-statement",
     "href": "branding.html#brand-statement",
     "title": "",
     "section": "Brand Statement",
-    "text": "Brand Statement\n\nARS aims to make data science and technologies approachable, engaging, transparent, and human-centered. By sharing content from technical programming to storytelling with data, we want to engage with audiance from various stage of the journey, showcase the power of data, and discuss the ethics of harvesting this power.\nWe emphasize that data science is not just for experts but a creative tool anyone can explore and enjoy. It also shapes the future of communication, learning, and everyday life."
+    "text": "Brand Statement\n\nARS comes from Latin, meaning skills, methods, and science. It captures the multiple facets that make up of Data Science.\nWe aim to make data science and technologies approachable, engaging, transparent, and human-centered. By sharing content from technical programming to storytelling with data, we want to engage with audiance from various stage of the journey, showcase the power of data, and discuss the ethics of harvesting this power.\nWe emphasize that data science is not just for experts but a creative tool anyone can explore and enjoy. It also shapes the future of communication, learning, and everyday life."
   },
   {
     "objectID": "branding.html#rules",
@@ -151,20 +151,27 @@
     "href": "branding.html#we-speak-with",
     "title": "",
     "section": "We speak with:",
-    "text": "We speak with:\n\n\nClearity\nCreativity\nPlayfulness\nConfidence\nHumility"
+    "text": "We speak with:\n\n\nClearity & Creativity\nPlayfulness & Professionalism\nConfidence & Humility"
   },
   {
     "objectID": "branding.html#placeholder",
     "href": "branding.html#placeholder",
     "title": "",
     "section": "placeholder",
-    "text": "placeholder\n\n(Placeholder)\n\n\nPlaceholder"
+    "text": "placeholder\n\n(Placeholder)"
   },
   {
     "objectID": "branding.html#we-speak-with-1",
     "href": "branding.html#we-speak-with-1",
     "title": "",
     "section": "We speak with:",
-    "text": "We speak with:\n\n\nClearity\nCreativity\nPlayfulness\nConfidence\nHumility"
+    "text": "We speak with:\n\n\nClearity & Creativity\nPlayfulness & Professionalism\nConfidence & Humility"
+  },
+  {
+    "objectID": "branding.html#we-speak-with-2",
+    "href": "branding.html#we-speak-with-2",
+    "title": "",
+    "section": "We speak with:",
+    "text": "We speak with:\n\n\nClearity & Creativity\nPlayfulness & Professionalism\nConfidence & Humility"
   }
 ]
