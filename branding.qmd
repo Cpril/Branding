@@ -32,7 +32,7 @@ document.body.classList.add('branding-page');
 :::
 
 ::: {.branding-content}
-## Brand Statement {.section-title}
+## 📝 Brand Statement {.section-title}
 
 ::: {.text-body}
 
@@ -43,7 +43,7 @@ We aim to make data science and technologies approachable, engaging, transparent
 We emphasize that data science is not just for experts but a creative tool anyone can explore and enjoy. It also shapes the future of communication, learning, and everyday life.
 :::
 
-## Color Palette {.section-title}
+## 🎨 Color Palette {.section-title}
 
 ::: {.one-column}
 
@@ -51,7 +51,7 @@ We emphasize that data science is not just for experts but a creative tool anyon
 
 :::
 
-## The Design Process {.section-title}
+## 🪜 The Design Process {.section-title}
 
 ::: {.three-column}
 ::: {.content-block}
@@ -94,7 +94,7 @@ For texts, I used different styles and sizes of **Consolas**, as it is a monospa
 
 ::: {.two-column}
 ::: {.content-block}
-# Typography {.text-h1}
+# 🅰️ Typography {.text-h1}
 
 ::: {.text-body}
 | **Element** | **Font** | **Font‑Size** | **Colour** | **Style**|
@@ -130,7 +130,7 @@ This is caption text - use it for image captions, footnotes, or supplementary in
 
 
 ::: {.text-content}
-## We speak with: {.text-h2}
+## 🗣️ We speak with: {.text-h2}
 
 ::: {.text-body}
 -   Clearity & Creativity
