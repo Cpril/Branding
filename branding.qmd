@@ -170,14 +170,10 @@ This is caption text - use it for image captions, footnotes, or supplementary in
 :::
 
 ::: {.text-content style = "margin-left:3rem !important;"}
-## We speak with: {.text-h2}
+
 
 ::: {.text-body style = "margin-left:3rem !important;"}
--   Clearity & Creativity
 
--   Playfulness & Professionalism
-
--   Confidence & Humility
 :::
 :::
 :::

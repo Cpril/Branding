@@ -468,7 +468,7 @@ body {
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 968px) {
     .custom-sidebar {
         width: 100%;
         height: auto;
