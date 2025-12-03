@@ -45,7 +45,7 @@ We emphasize that data science is not just for experts but a creative tool anyon
 
 ## 🎨 Color Palette {.section-title}
 
-::: {.one-column}
+::: {.two-column}
 
 ![](colors.png)
 
