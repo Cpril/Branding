@@ -10,7 +10,7 @@ document.body.classList.add('branding-page');
 
 ::: {.custom-sidebar}
 ::: {.sidebar-logo}
-![](logo.png)
+![](sidebar_logo-26.png)
 :::
 
 ::: {.sidebar-nav}
@@ -27,12 +27,10 @@ document.body.classList.add('branding-page');
 :::
 
 ::: {.main-content-wrapper}
-::: {.hero-banner}
-![](banner-02.png)
-:::
+
 
 ::: {.branding-content}
-## 📝 Brand Statement {.section-title}
+## Brand Statement {.section-title}
 
 ::: {.text-body}
 
@@ -43,15 +41,37 @@ We aim to make data science and technologies approachable, engaging, transparent
 We emphasize that data science is not just for experts but a creative tool anyone can explore and enjoy. It also shapes the future of communication, learning, and everyday life.
 :::
 
-## 🎨 Color Palette {.section-title}
+## Color Palette {.section-title}
 
 ::: {.two-column}
-
+::: {.content-block}
 ![](colors.png)
+:::
+::: {.content-block}
 
+::: {.text-body}
+For color schemes, I used cold neutral colors such as **black and grays** to convey the professionalism, clarity and simplicity. Then, I added **bright green and pink** to convey the passion, excitement, creativity, and fun. 
 :::
 
-## 🪜 The Design Process {.section-title}
+
+
+:::
+:::
+
+## Icon Variations
+
+::: {.two-column}
+::: {.content-block}
+![](icon_variations-01.png)
+:::
+::: {.content-block}
+![](icon_variations-22.png)
+
+:::
+:::
+
+
+## The Design Process {.section-title}
 
 ::: {.three-column}
 ::: {.content-block}
@@ -84,9 +104,6 @@ User would like to see an organized blogs web interface, along with an "about" a
 ::: {.text-body}
 I created a main page with an organized blogs section on the right. Blogs are seperated according to featured blog and past blogs. A search button on the top right (TODO: FIX the location) enable search across all blogs and contents. I also built a left sidebar with links to "about" and "subscribe", as well as other social media outlets, allows quick access. 
 
-For color schemes, I used cold neutral colors such as **black and grays** to convey the professionalism, clarity and simplicity. Then, I added **bright green and pink** to convey the passion, excitement, creativity, and fun. 
-
-For texts, I used different styles and sizes of **Consolas**, as it is a monospaced text face that's commonly used in programming and its round edges conveys a sense of playfulness.
 
 :::
 :::
@@ -94,10 +111,10 @@ For texts, I used different styles and sizes of **Consolas**, as it is a monospa
 
 ::: {.two-column}
 ::: {.content-block}
-# 🅰️ Typography {.text-h1}
+# Typography {.text-h1}
 
 ::: {.text-body}
-| **Element** | **Font** | **Font‑Size** | **Colour** | **Style**|
+| **Element** | **Font** | **Font‑Size** | **Color** | **Style**|
 |------------|------------|------------|------------|------------|
 | **Title** | Consolas | 1.8rem | #2c3e50 | Bold |
 | **Heading (h1)** | Consolas | 1.5rem | #2c3e50 | Bold |
@@ -116,6 +133,7 @@ For texts, I used different styles and sizes of **Consolas**, as it is a monospa
 
 ::: {.text-body}
 This is what body text looks like. Our primary typeface is Consolas, a monospaced font that provides a technical, modern feel while maintaining excellent readability across all devices and screen sizes.
+It's commonly used in programming and its round edges conveys a sense of playfulness.
 :::
 
 ::: {.text-caption}
@@ -126,27 +144,7 @@ This is caption text - use it for image captions, footnotes, or supplementary in
 :::
 
 ::: {.horizontal-card}
-![](sticker.png)
-
-
-::: {.text-content}
-## 🗣️ We speak with: {.text-h2}
-
-::: {.text-body}
--   Clearity & Creativity
-
--   Playfulness & Professionalism
-
--   Confidence & Humility
-:::
-
-:::
-:::
-
-::: {.horizontal-card .reverse}
-::: {.image-block}
-![](icon-12.png)
-:::
+![](phone_app.png)
 
 ::: {.text-content}
 ## We speak with: {.text-h2}
@@ -162,12 +160,24 @@ This is caption text - use it for image captions, footnotes, or supplementary in
 :::
 :::
 
+::: {.horizontal-card .reverse}
+
+::: {.image-block}
+![](sticker_on_computer-24.png)
+:::
+
+::: {.image-block}
+![](sticker_on_computer-23.png)
+:::
+
+
+
+:::
+
 
 :::
 ::: {.horizontal-card}
-::: {.image-block style="text-align:left !important; justify-content:flex-start !important; margin-left:0 !important;"}
-![](diaganals-footing.png)
-:::
+
 
 ::: {.text-content style = "margin-left:3rem !important;"}
 

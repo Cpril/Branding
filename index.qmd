@@ -24,10 +24,7 @@ page-layout: custom
 
 ::: {.main-content-wrapper}
 ::: {.hero-section}
-::: {.hero-logo}
-<!-- Replace with your hero logo -->
-![](banner-02.png)
-:::
+
 :::
 
 ::: {.content-grid}

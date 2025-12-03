@@ -16,14 +16,14 @@
   {
     "objectID": "index.html#understanding-modern-web-development",
     "href": "index.html#understanding-modern-web-development",
-    "title": "",
+    "title": "ARS",
     "section": "Understanding Modern Web Development",
     "text": "Understanding Modern Web Development\n\nPublished on Nov 15, 2025\n\n\nDive into the latest trends and technologies shaping the web development landscape. Learn about new frameworks, best practices, and tools that are revolutionizing how we build for the web."
   },
   {
     "objectID": "index.html#the-future-of-data-science",
     "href": "index.html#the-future-of-data-science",
-    "title": "",
+    "title": "ARS",
     "section": "The Future of Data Science",
     "text": "The Future of Data Science\n\nPublished on Nov 12, 2025 • 7 min read\n\n\nExplore emerging trends in data science and machine learning. From AI advancements to practical applications, discover what’s next in the world of data-driven decision making."
   },
@@ -38,8 +38,8 @@
     "objectID": "branding.html#color-palette",
     "href": "branding.html#color-palette",
     "title": "",
-    "section": "🎨 Color Palette",
-    "text": "🎨 Color Palette"
+    "section": "Color Palette",
+    "text": "Color Palette\n\n\n\n\n\n\nFor color schemes, I used cold neutral colors such as black and grays to convey the professionalism, clarity and simplicity. Then, I added bright green and pink to convey the passion, excitement, creativity, and fun."
   },
   {
     "objectID": "branding.html#primary-colors",
@@ -101,15 +101,15 @@
     "objectID": "branding.html#the-design-process",
     "href": "branding.html#the-design-process",
     "title": "",
-    "section": "🪜 The Design Process",
-    "text": "🪜 The Design Process\n\n\nUnderstand the Brand\n\nArs aim to make data science and technologies approachable, engaging, transparent, and human-centered through informational blogs and fun projects.\nWe want to convey both the professionalism that is associated with technology and data, as well as the creative and fun aspect of them.\nAdditionally, We value clarity and simplicity in our content, as well as the passion and excitement associate with hands-on learning.\n\n\n\nDefine User Needs\n\nArs would attract users who are interested in learning more about in data science and looking for creative ideas to test the water in data science or flush up their resume.\nUser would like to see an organized blogs web interface, along with an “about” and “subscribe” session which help the user learn more about us and keep updated.\n\n\n\nBuild and Prototype\n\nI created a main page with an organized blogs section on the right. Blogs are seperated according to featured blog and past blogs. A search button on the top right (TODO: FIX the location) enable search across all blogs and contents. I also built a left sidebar with links to “about” and “subscribe”, as well as other social media outlets, allows quick access.\nFor color schemes, I used cold neutral colors such as black and grays to convey the professionalism, clarity and simplicity. Then, I added bright green and pink to convey the passion, excitement, creativity, and fun.\nFor texts, I used different styles and sizes of Consolas, as it is a monospaced text face that’s commonly used in programming and its round edges conveys a sense of playfulness."
+    "section": "The Design Process",
+    "text": "The Design Process\n\n\nUnderstand the Brand\n\nArs aim to make data science and technologies approachable, engaging, transparent, and human-centered through informational blogs and fun projects.\nWe want to convey both the professionalism that is associated with technology and data, as well as the creative and fun aspect of them.\nAdditionally, We value clarity and simplicity in our content, as well as the passion and excitement associate with hands-on learning.\n\n\n\nDefine User Needs\n\nArs would attract users who are interested in learning more about in data science and looking for creative ideas to test the water in data science or flush up their resume.\nUser would like to see an organized blogs web interface, along with an “about” and “subscribe” session which help the user learn more about us and keep updated.\n\n\n\nBuild and Prototype\n\nI created a main page with an organized blogs section on the right. Blogs are seperated according to featured blog and past blogs. A search button on the top right (TODO: FIX the location) enable search across all blogs and contents. I also built a left sidebar with links to “about” and “subscribe”, as well as other social media outlets, allows quick access."
   },
   {
     "objectID": "branding.html#brand-statement",
     "href": "branding.html#brand-statement",
     "title": "",
-    "section": "📝 Brand Statement",
-    "text": "📝 Brand Statement\n\nARS comes from Latin, meaning skills, methods, and science. It captures the multiple facets that make up of Data Science.\nWe aim to make data science and technologies approachable, engaging, transparent, and human-centered. By sharing content from technical programming to storytelling with data, we want to engage with audiance from various stage of the journey, showcase the power of data, and discuss the ethics of harvesting this power.\nWe emphasize that data science is not just for experts but a creative tool anyone can explore and enjoy. It also shapes the future of communication, learning, and everyday life."
+    "section": "Brand Statement",
+    "text": "Brand Statement\n\nARS comes from Latin, meaning skills, methods, and science. It captures the multiple facets that make up of Data Science.\nWe aim to make data science and technologies approachable, engaging, transparent, and human-centered. By sharing content from technical programming to storytelling with data, we want to engage with audiance from various stage of the journey, showcase the power of data, and discuss the ethics of harvesting this power.\nWe emphasize that data science is not just for experts but a creative tool anyone can explore and enjoy. It also shapes the future of communication, learning, and everyday life."
   },
   {
     "objectID": "branding.html#rules",
@@ -137,7 +137,7 @@
     "href": "branding.html#section-heading-h2",
     "title": "",
     "section": "Section Heading (h2)",
-    "text": "Section Heading (h2)\n\nSubsubction Heading (h3)\n\nThis is what body text looks like. Our primary typeface is Consolas, a monospaced font that provides a technical, modern feel while maintaining excellent readability across all devices and screen sizes.\n\n\nThis is caption text - use it for image captions, footnotes, or supplementary information that supports the main content."
+    "text": "Section Heading (h2)\n\nSubsubction Heading (h3)\n\nThis is what body text looks like. Our primary typeface is Consolas, a monospaced font that provides a technical, modern feel while maintaining excellent readability across all devices and screen sizes. It’s commonly used in programming and its round edges conveys a sense of playfulness.\n\n\nThis is caption text - use it for image captions, footnotes, or supplementary information that supports the main content."
   },
   {
     "objectID": "branding.html#digital",
@@ -150,8 +150,8 @@
     "objectID": "branding.html#we-speak-with",
     "href": "branding.html#we-speak-with",
     "title": "",
-    "section": "🗣️ We speak with:",
-    "text": "🗣️ We speak with:\n\n\nClearity & Creativity\nPlayfulness & Professionalism\nConfidence & Humility"
+    "section": "We speak with:",
+    "text": "We speak with:\n\n\nClearity & Creativity\nPlayfulness & Professionalism\nConfidence & Humility"
   },
   {
     "objectID": "branding.html#placeholder",
@@ -173,5 +173,110 @@
     "title": "",
     "section": "We speak with:",
     "text": "We speak with:\n\n\nClearity & Creativity\nPlayfulness & Professionalism\nConfidence & Humility"
+  },
+  {
+    "objectID": "branding.html#section-heading-h2-1",
+    "href": "branding.html#section-heading-h2-1",
+    "title": "",
+    "section": "Section Heading (h2)",
+    "text": "Section Heading (h2)\n\nSubsubction Heading (h3)\n\nThis is what body text looks like. Our primary typeface is Consolas, a monospaced font that provides a technical, modern feel while maintaining excellent readability across all devices and screen sizes.\n\n\nThis is caption text - use it for image captions, footnotes, or supplementary information that supports the main content."
+  },
+  {
+    "objectID": "branding.html#icon-variations",
+    "href": "branding.html#icon-variations",
+    "title": "",
+    "section": "Icon Variations",
+    "text": "Icon Variations"
+  },
+  {
+    "objectID": "about.html#about-ars",
+    "href": "about.html#about-ars",
+    "title": "ARS",
+    "section": "About ARS",
+    "text": "About ARS\n\nARS comes from Latin, meaning skills, methods, and science. It captures the multiple facets that make up Data Science.\nWe are a platform dedicated to making data science and technologies approachable, engaging, transparent, and human-centered. Through informational blogs, hands-on projects, and creative explorations, we aim to demystify the world of data and empower learners at every stage of their journey."
+  },
+  {
+    "objectID": "about.html#our-mission",
+    "href": "about.html#our-mission",
+    "title": "ARS",
+    "section": "Our Mission",
+    "text": "Our Mission\n\n\nMake Data Accessible\n\nWe believe data science is not just for experts. Our content breaks down complex concepts into digestible, engaging pieces that anyone can understand and apply, regardless of their technical background.\n\n\n\nInspire Creativity\n\nData science is as much an art as it is a science. We showcase creative projects, innovative visualizations, and storytelling techniques that demonstrate the beauty and power of working with data.\n\n\n\nPromote Ethics\n\nWith great power comes great responsibility. We discuss the ethical implications of data science, privacy concerns, and the importance of using technology to benefit humanity."
+  },
+  {
+    "objectID": "about.html#what-we-cover",
+    "href": "about.html#what-we-cover",
+    "title": "ARS",
+    "section": "What We Cover",
+    "text": "What We Cover\n\n\n\n\n\n\n\nTechnical Skills\n\nFrom Python and R programming to machine learning algorithms and data visualization techniques, we provide tutorials, code examples, and best practices to help you build your technical toolkit.\nTopics include:\n\nProgramming fundamentals\nData manipulation and analysis\nStatistical modeling\nMachine learning\nData visualization\nWeb scraping and APIs\n\n\n\n\n\n\nCreative Projects\n\nLearning by doing is at the heart of data science. We share fun, practical projects that let you apply your skills, experiment with new tools, and build a portfolio that stands out.\nProject types:\n\nInteractive dashboards\nData storytelling\nPredictive models\nWeb applications\nData art and visualization\nReal-world case studies"
+  },
+  {
+    "objectID": "about.html#who-we-are",
+    "href": "about.html#who-we-are",
+    "title": "ARS",
+    "section": "Who We Are",
+    "text": "Who We Are\n\n\n\n\n\nThe Team\n\nARS is created and maintained by a passionate team of data scientists, educators, and creative technologists who believe in the transformative power of data literacy.\nWe come from diverse backgrounds—statistics, computer science, design, and journalism—united by our love for making complex ideas accessible and our commitment to ethical, human-centered technology."
+  },
+  {
+    "objectID": "about.html#our-values",
+    "href": "about.html#our-values",
+    "title": "ARS",
+    "section": "Our Values",
+    "text": "Our Values\n\n\nClarity & Creativity\n\nWe strive for clear communication while embracing creative approaches to problem-solving and presentation.\n\n\n\nPlayfulness & Professionalism\n\nWe maintain high standards and rigor while keeping learning fun, engaging, and enjoyable.\n\n\n\nConfidence & Humility\n\nWe share our knowledge confidently while staying open to new ideas, feedback, and continuous learning."
+  },
+  {
+    "objectID": "about.html#join-our-community",
+    "href": "about.html#join-our-community",
+    "title": "ARS",
+    "section": "Join Our Community",
+    "text": "Join Our Community\n\nWhether you’re just starting your data science journey or looking to sharpen your skills, there’s a place for you at ARS. Subscribe to our newsletter for weekly insights, project ideas, and the latest in data science.\nReady to dive in? Subscribe here and let’s explore the art and science of data together.\n\n\n\nStay Connected\n\nFollow us on social media for daily tips, project showcases, and community discussions:\n\nLinkedIn: Professional insights and career tips\nGitHub: Access our open-source projects and code\nInstagram: data science quick tips and news"
+  },
+  {
+    "objectID": "subscribe.html#join-the-ars-community",
+    "href": "subscribe.html#join-the-ars-community",
+    "title": "",
+    "section": "Join the ARS Community",
+    "text": "Join the ARS Community\n\nStay updated with the latest insights, tutorials, and projects in data science. Get weekly content delivered straight to your inbox—from technical deep-dives to creative project ideas and industry trends."
+  },
+  {
+    "objectID": "subscribe.html#what-youll-receive",
+    "href": "subscribe.html#what-youll-receive",
+    "title": "",
+    "section": "What You’ll Receive",
+    "text": "What You’ll Receive\n\n\nWeekly Tutorials\n\nStep-by-step guides on programming, data analysis, visualization, and machine learning. Each tutorial includes code examples and practical applications.\n\n\n\nProject Ideas\n\nCreative project inspiration to build your portfolio, experiment with new tools, and apply your skills to real-world problems.\n\n\n\nIndustry Insights\n\nCurated news, trends, and discussions about the evolving landscape of data science, AI, and ethical technology."
+  },
+  {
+    "objectID": "subscribe.html#subscribe-to-our-newsletter",
+    "href": "subscribe.html#subscribe-to-our-newsletter",
+    "title": "",
+    "section": "Subscribe to Our Newsletter",
+    "text": "Subscribe to Our Newsletter\n\n\nGet Started\n\nJoin hundreds of data enthusiasts who receive our weekly newsletter. No spam, just quality content to help you grow your data science skills.\nNewsletter frequency: Weekly Content type: Tutorials, projects, news, tips Unsubscribe anytime: We respect your inbox\n\n\n\n\n\n\n\n\n  \n    \n      Name\n      \n    \n    \n    \n      Email Address\n      \n    \n    \n    \n      \n      Technical Tutorials\n    \n    \n    \n      \n      Creative Projects\n    \n    \n    \n      \n      Industry News\n    \n    \n    Subscribe Now\n  \n  \n  We respect your privacy. Your email will never be shared with third parties. You can unsubscribe at any time."
+  },
+  {
+    "objectID": "subscribe.html#what-our-subscribers-say",
+    "href": "subscribe.html#what-our-subscribers-say",
+    "title": "",
+    "section": "What Our Subscribers Say",
+    "text": "What Our Subscribers Say\n\n\n\n“ARS newsletters are the highlight of my week. The tutorials are clear, the projects are fun, and I’ve learned so much!”\n— Sarah M., Data Analyst\n\n\n\n\n“Finally, a data science newsletter that’s both technical and approachable. The project ideas have been invaluable for my portfolio.”\n— James K., Career Changer\n\n\n\n\n“I love how ARS balances technical depth with creativity. It’s helped me see data science as more than just numbers.”\n— Maria L., Student"
+  },
+  {
+    "objectID": "subscribe.html#follow-us-on-social-media",
+    "href": "subscribe.html#follow-us-on-social-media",
+    "title": "ARS",
+    "section": "Follow Us on Social Media",
+    "text": "Follow Us on Social Media\n\nCan’t wait for the weekly newsletter? Connect with us on social media for daily tips, quick tutorials, and community discussions.\n\n\n\n\nLinkedIn: Professional insights and career tips\nGitHub: Access our open-source projects and code\nInstagram: data science quick tips and news"
+  },
+  {
+    "objectID": "subscribe.html#frequently-asked-questions",
+    "href": "subscribe.html#frequently-asked-questions",
+    "title": "ARS",
+    "section": "Frequently Asked Questions",
+    "text": "Frequently Asked Questions\n\nHow often will I receive emails?\nWe send one main newsletter per week. Occasionally, we may send special announcements for new courses or major updates.\n\n\nCan I choose what content I receive?\nYes! When you subscribe, you can select your interests (tutorials, projects, or news). You can update your preferences at any time through your subscription settings.\n\n\nIs it really free?\nAbsolutely! Our newsletter is completely free. We believe in making data science education accessible to everyone.\n\n\nHow do I unsubscribe?\nEvery email includes an unsubscribe link at the bottom. Click it anytime, and you’ll be removed from our list immediately—no questions asked."
+  },
+  {
+    "objectID": "subscribe.html#join-ars-community",
+    "href": "subscribe.html#join-ars-community",
+    "title": "ARS",
+    "section": "Join ARS Community",
+    "text": "Join ARS Community\n\nJoin hundreds of data enthusiasts who receive our weekly newsletter. No spam, just quality content to help you grow your data science skills.\n\n\nWhat Our Subscribers Say\n\n\n\n“ARS newsletters are the highlight of my week. The tutorials are clear, the projects are fun, and I’ve learned so much!”\n— Sarah M., Data Analyst\n\n\n\n\n“Finally, a data science newsletter that’s both technical and approachable. The project ideas have been invaluable for my portfolio.”\n— James K., Student\n\n\n\n\n“I love how ARS balances technical depth with creativity. It’s helped me see data science as more than just numbers.”\n— Maria L., Student\n\n\n\n\n\n  \n    \n      Name\n      \n    \n    \n    \n      Email Address\n      \n    \n    \n    \n      \n      Technical Tutorials\n    \n    \n    \n      \n      Creative Projects\n    \n    \n    \n      \n      Industry News\n    \n    \n    Subscribe Now\n  \n  \n  We respect your privacy. Your email will never be shared with third parties. You can unsubscribe at any time."
   }
 ]

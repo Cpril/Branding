@@ -3,15 +3,15 @@ project:
   output-dir: _site
 
 website:
-  title: ""
+  title: "ARS"
   favicon: logo.png
   navbar:
-    background: "#fef9e7"
-    foreground: "#34495e"
+    background: "#f2f2f2"
+    foreground: "#13252b"
     title: false
     left: []
     right: []
-    search: true
+    search: false
   sidebar: false
   search:
     location: navbar
