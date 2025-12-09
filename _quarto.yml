@@ -17,11 +17,8 @@ website:
     title: false
     left: []
     right: []
-    search: false
+    search: true
   sidebar: false
-  search:
-    location: navbar
-    type: overlay
 format:
   html:
     theme: custom.scss

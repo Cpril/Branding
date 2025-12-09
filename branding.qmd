@@ -1,6 +1,7 @@
 ---
 title: ""
 page-layout: custom
+search: false
 ---
 ```{=html}
 <script>
@@ -102,7 +103,7 @@ User would like to see an organized blogs web interface, along with an "about" a
 ### Build and Prototype {.text-h3}
 
 ::: {.text-body}
-I created a main page with an organized blogs section on the right. Blogs are seperated according to featured blog and past blogs. A search button on the top right enable search across all blogs and contents. I also built a left sidebar with links to "about" and "subscribe", as well as other social media outlets, allows quick access. 
+I created a main page with an organized blogs section on the right. Blogs are seperated according to featured blog and past blogs. I also built a left sidebar with links to "about" and "subscribe", as well as other social media outlets, allowing quick access. A search button on the top right of the home page enables search across all blogs and contents.
 
 
 :::
