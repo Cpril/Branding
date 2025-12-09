@@ -21,8 +21,8 @@ document.body.classList.add('subscribe-page');
 :::
 
 ::: {.sidebar-social}
-[LinkedIn](https://linkedin.com/in/yourprofile){target="_blank"}
-[GitHub](https://github.com/yourusername){target="_blank"}
+[LinkedIn](https://www.linkedin.com/in/jx-chen/){target="_blank"}
+[GitHub](https://github.com/Cpril){target="_blank"}
 :::
 :::
 

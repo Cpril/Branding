@@ -1,6 +1,12 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - "*.png"
+    - "*.jpg"
+    - "*.jpeg"
+    - "*.svg"
+    - "styles.css"
 
 website:
   title: "ARS"
@@ -16,10 +22,10 @@ website:
   search:
     location: navbar
     type: overlay
-
 format:
   html:
     theme: custom.scss
     css: styles.css
     toc: false
+    embed-resources: false
     page-layout: custom

@@ -21,8 +21,8 @@ document.body.classList.add('branding-page');
 :::
 
 ::: {.sidebar-social}
-[LinkedIn](https://linkedin.com/in/yourprofile){target="_blank"}
-[GitHub](https://github.com/yourusername){target="_blank"}
+[LinkedIn](https://www.linkedin.com/in/jx-chen/){target="_blank"}
+[GitHub](https://github.com/Cpril){target="_blank"}
 :::
 :::
 
@@ -50,7 +50,7 @@ We emphasize that data science is not just for experts but a creative tool anyon
 ::: {.content-block}
 
 ::: {.text-body}
-For color schemes, I used cold neutral colors such as **black and grays** to convey the professionalism, clarity and simplicity. Then, I added **bright green and pink** to convey the passion, excitement, creativity, and fun. 
+For color schemes, I used cold neutral colors such as **black and grays** to convey professionalism, clarity and simplicity. Then, I added **bright green and pink** to convey the passion, excitement, creativity, and fun. 
 :::
 
 
@@ -102,7 +102,7 @@ User would like to see an organized blogs web interface, along with an "about" a
 ### Build and Prototype {.text-h3}
 
 ::: {.text-body}
-I created a main page with an organized blogs section on the right. Blogs are seperated according to featured blog and past blogs. A search button on the top right (TODO: FIX the location) enable search across all blogs and contents. I also built a left sidebar with links to "about" and "subscribe", as well as other social media outlets, allows quick access. 
+I created a main page with an organized blogs section on the right. Blogs are seperated according to featured blog and past blogs. A search button on the top right enable search across all blogs and contents. I also built a left sidebar with links to "about" and "subscribe", as well as other social media outlets, allows quick access. 
 
 
 :::
@@ -144,7 +144,7 @@ This is caption text - use it for image captions, footnotes, or supplementary in
 :::
 
 ::: {.horizontal-card}
-![](phone_app.png)
+![](phone_app-Photoroom.png)
 
 ::: {.text-content}
 ## We speak with: {.text-h2}

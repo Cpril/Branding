@@ -21,7 +21,7 @@ document.body.classList.add('about-page');
 :::
 
 ::: {.sidebar-social}
-[LinkedIn](https://linkedin.com/in/jiaxin-chen){target="_blank"}
+[LinkedIn](https://www.linkedin.com/in/jx-chen/){target="_blank"}
 [GitHub](https://github.com/Cpril){target="_blank"}
 :::
 :::
@@ -72,7 +72,7 @@ With great power comes great responsibility. We discuss the ethical implications
 ::: {.two-column}
 ::: {.content-block}
 ::: {.image-block}
-![](placeholder_coding.png)
+![](mindmap.png)
 :::
 :::
 
@@ -114,7 +114,7 @@ Learning by doing is at the heart of data science. We share fun, practical proje
 
 ::: {.content-block}
 ::: {.image-block}
-![](placeholder_projects.png)
+
 :::
 :::
 :::

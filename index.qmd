@@ -17,8 +17,8 @@ page-layout: custom
 :::
 
 ::: {.sidebar-social}
-[LinkedIn](https://linkedin.com/in/yourprofile){target="_blank"}
-[GitHub](https://github.com/yourusername){target="_blank"}
+[LinkedIn](https://www.linkedin.com/in/jx-chen/){target="_blank"}
+[GitHub](https://github.com/Cpril){target="_blank"}
 :::
 :::
 
@@ -31,6 +31,7 @@ page-layout: custom
 ::: {.featured-posts}
 ::: {.post-card}
 ::: {.post-image}
+![](web_development.jpeg)
 :::
 
 ## Understanding Modern Web Development {.post-title}
@@ -46,6 +47,7 @@ Dive into the latest trends and technologies shaping the web development landsca
 
 ::: {.post-card}
 ::: {.post-image}
+![](data-science.jpeg)
 :::
 
 ## The Future of Data Science {.post-title}
