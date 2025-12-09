@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: Consolas;
+    font-family: Consolas, 'Courier New', Menlo, Monaco, monospace;
     overflow-x: hidden;
 }
 
