@@ -453,7 +453,8 @@ body {
 }
 
 .horizontal-card .image-block {
-    height: 250px;
+    width:100%;
+    height: auto;
     margin-bottom: 0;
 }
 
