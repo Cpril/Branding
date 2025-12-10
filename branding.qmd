@@ -51,12 +51,19 @@ We emphasize that data science is not just for experts but a creative tool anyon
 ::: {.content-block}
 
 ::: {.text-body}
+### We speak with: 
+
+- Clearity & Creativity
+
+- Playfulness & Professionalism
+
+- Confidence & Humility
+:::
+
+:::
+:::
+::: {.text-body}
 For color schemes, I used cold neutral colors such as **black and grays** to convey professionalism, clarity and simplicity. Then, I added **bright green and pink** to convey the passion, excitement, creativity, and fun. 
-:::
-
-
-
-:::
 :::
 
 ## Icon Variations
@@ -82,9 +89,9 @@ For color schemes, I used cold neutral colors such as **black and grays** to con
 ::: {.text-body}
 *Ars* aim to make data science and technologies approachable, engaging, transparent, and human-centered through informational blogs and fun projects. 
 
-We want to convey both the professionalism that is associated with technology and data, as well as the creative and fun aspect of them.
+We want to convey both the *professionalism* that is associated with technology and data, as well as the *creative and fun* aspect of them.
 
-Additionally, We value clarity and simplicity in our content, as well as the passion and excitement associate with hands-on learning. 
+Additionally, We value *clarity and simplicity* in our content, as well as the *passion and excitement* associate with hands-on learning. 
 
 :::
 :::
@@ -143,19 +150,13 @@ This is caption text - use it for image captions, footnotes, or supplementary in
 
 :::
 :::
-
+## Brand in Application {.text-h2}
 ::: {.horizontal-card}
 ![](phone_app-Photoroom.png)
 
 ::: {.text-content}
-## We speak with: {.text-h2}
-
 ::: {.text-body}
--   Clearity & Creativity
 
--   Playfulness & Professionalism
-
--   Confidence & Humility
 :::
 
 :::
@@ -163,13 +164,9 @@ This is caption text - use it for image captions, footnotes, or supplementary in
 
 ::: {.horizontal-card .reverse}
 
-::: {.image-block}
-![](sticker_on_computer-24.png)
-:::
 
-::: {.image-block}
-![](sticker_on_computer-23.png)
-:::
+
+
 
 
 

@@ -166,7 +166,7 @@ body {
 .search-input {
     width: 300px;
     padding: 0.6rem 1rem;
-    border: 2px solid #f4d03f;
+    border: 2px solid #ff6b9d;
     border-radius: 25px;
     font-size: 0.95rem;
     outline: none;
@@ -174,7 +174,7 @@ body {
 }
 
 .search-input:focus {
-    border-color: #f39c12;
+    border-color: #ff6b9d;
 }
 
 /* ========== HOMEPAGE SPECIFIC STYLES ========== */
@@ -274,7 +274,7 @@ body {
     color: #2c3e50;
     margin-bottom: 0.5rem;
     padding-bottom: 0.5rem;
-    border-bottom: 3px solid #f39c12;
+    border-bottom: 3px solid #ff6b9d;
 }
 
 .story-card {
@@ -331,7 +331,7 @@ body {
     color: #2c3e50;
     margin-bottom: 2rem;
     padding-bottom: 1rem;
-    border-bottom: 3px solid #f39c12;
+    border-bottom: 3px solid #ff6b9d;
 }
 
 /* Section Styling */
