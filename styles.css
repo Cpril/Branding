@@ -455,8 +455,15 @@ body {
 .horizontal-card .image-block {
     width:100%;
     height: auto;
+    border-radius: 10px;
     margin-bottom: 0;
 }
+
+.horizontal-card .image-block img {
+    border-radius: 10px;
+    display: block;   /* prevents white gaps */
+}
+
 
 .horizontal-card .text-content {
     display: flex;
@@ -465,6 +472,7 @@ body {
 }
 
 .horizontal-card.reverse .image-block {
+    border-radius: 10px;
     order: 2;
 }
 
