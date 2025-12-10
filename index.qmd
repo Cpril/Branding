@@ -7,7 +7,7 @@ search: true
 ::: {.custom-sidebar}
 ::: {.sidebar-logo}
 <!-- sidebar logo -->
-![](logo.png)
+![](sidebar_logo-26.png)
 :::
 
 ::: {.sidebar-nav}
