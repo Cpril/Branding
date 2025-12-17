@@ -115,7 +115,6 @@ Learning by doing is at the heart of data science. We share fun, practical proje
 
 ::: {.content-block}
 ::: {.image-block}
-![](creative-proj-removebg-preview.png)
 :::
 :::
 :::
